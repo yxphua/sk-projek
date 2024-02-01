@@ -5,5 +5,5 @@
     $database = "kehadiran";
 
     $sambungan = mysqli_connect($host, $user, $password, $database)
-    or die("Sambugan gagal");
+    or die("Sambungan gagal");
 ?>
